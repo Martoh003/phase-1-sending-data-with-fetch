@@ -117,7 +117,7 @@ a JavaScript `Object` as the _second_ argument. This `Object` can be given
 certain [properties][p] that can be used to change `fetch()`'s default behavior.
 
 ```js
-fetch(destinationURL, configurationObject);
+fetch(destinationURL, configurationObject); 
 ```
 
 The `configurationObject` contains three core components that are needed for
